@@ -1,3 +1,3 @@
 # scraping merojob.com
-used the Beautiful Soup library to scrape jobs on merojob.com 
-made a csv file and converted it into json
+<li>Used the Beautiful Soup library to scrape jobs on merojob.com </li>
+<li>Made a csv file and converted it into json for further use</li>
